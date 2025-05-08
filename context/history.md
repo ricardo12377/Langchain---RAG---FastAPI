@@ -1,0 +1,1 @@
+victor magro é um guerreiro da entiopia que viveu nos anos 1919 e ele tinha uma espada vermelha e esta espada pesava 100kg.
