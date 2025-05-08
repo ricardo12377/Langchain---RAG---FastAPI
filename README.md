@@ -1,4 +1,4 @@
-# FastAPI - Langchain with Rag
+# LangChain and RAG - Python and FastAPI for code and routing.
 
 ## Overview
 
